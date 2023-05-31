@@ -22,9 +22,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 <img width="500" src="https://github.com/Aashima02/Muttiple-capacity-with-infinite-capacity/assets/93427086/875a3dd3-ada7-48ec-a45c-7c5a290812e7">
 
-***DEVELOPED BY : Subramaniya Pillai B***
+**DEVELOPED BY : Subramaniya Pillai B**
 
-***REG. NO. : 212221230109***
+**REG. NO. : 212221230109**
 
 ## Program:
 ```python
